@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Satellite Communications News Aggregator</title>
-    <link>https://yourusername.github.io/satcom-news/rss.xml</link>
-    <description>Aggregated SATCOM news from Satellite Today, SpaceNews, Via Satellite, and NASA.</description>
+    <title>Via Satellite - Latest Headlines</title>
+    <link>https://www.satellitetoday.com</link>
+    <description>Headlines from Via Satellite magazine</description>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 May 2025 10:00:00 GMT</lastBuildDate>
+    <pubDate>Wed, 14 May 2025 10:00:00 GMT</pubDate>
 
-    <!-- Satellite Today -->
     <item>
-      <title>Satellite Today - Latest News</title>
-      <link>https://www.satellitetoday.com/feed/</link>
-      <description>Visit Satellite Today's RSS feed for up-to-date satellite communications news.</description>
-      <pubDate>Wed, 14 May 2025 09:00:00 GMT</pubDate>
-      <guid>https://www.satellitetoday.com/feed/</guid>
-    </item>
-
-    <!-- SpaceNews -->
-    <item>
-      <title>SpaceNews - SATCOM Coverage</title>
-      <link>https://spacenews.com/segment/satellite-communications/</link>
-      <description>SpaceNews segment on SATCOM industry developments.</description>
-      <pubDate>Wed, 14 May 2025 08:30:00 GMT</pubDate>
-      <guid>https://spacenews.com/segment/satellite-communications/</guid>
-    </item>
-
-    <!-- Via Satellite -->
-    <item>
-      <title>Via Satellite - Headlines</title>
-      <link>https://www.satellitetoday.com/via/feed/</link>
-      <description>Via Satellite's RSS feed for satellite business and tech news.</description>
+      <title>SpaceX Launches 23 Starlink Satellites</title>
+      <link>https://www.satellitetoday.com/launch/2025/05/14/spacex-launches-23-starlink-satellites/</link>
+      <description>SpaceX has successfully deployed 23 Starlink satellites from Cape Canaveral.</description>
       <pubDate>Wed, 14 May 2025 08:00:00 GMT</pubDate>
-      <guid>https://www.satellitetoday.com/via/feed/</guid>
+      <guid>https://www.satellitetoday.com/launch/2025/05/14/spacex-launches-23-starlink-satellites/</guid>
+    </item>
+
+    <item>
+      <title>SES and Intelsat Finalize Merger</title>
+      <link>https://www.satellitetoday.com/business/2025/05/13/ses-and-intelsat-finalize-merger/</link>
+      <description>SES and Intelsat have completed their long-anticipated merger, creating a new industry leader.</description>
+      <pubDate>Tue, 13 May 2025 14:30:00 GMT</pubDate>
+      <guid>https://www.satellitetoday.com/business/2025/05/13/ses-and-intelsat-finalize-merger/</guid>
+    </item>
+
+    <item>
+      <title>DoD Looks to LEO for Tactical Resilience</title>
+      <link>https://www.satellitetoday.com/government/2025/05/12/dod-looks-to-leo-for-tactical-resilience/</link>
+      <description>The U.S. Department of Defense is investing in LEO constellations to improve mission resilience.</description>
+      <pubDate>Mon, 12 May 2025 10:00:00 GMT</pubDate>
+      <guid>https://www.satellitetoday.com/government/2025/05/12/dod-looks-to-leo-for-tactical-resilience/</guid>
     </item>
 
   </channel>
