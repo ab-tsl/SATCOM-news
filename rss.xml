@@ -5,14 +5,14 @@
     <link>https://yourusername.github.io/satcom-news/rss.xml</link>
     <description>Aggregated SATCOM news from Satellite Today, SpaceNews, Via Satellite, and NASA.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2025 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 10:00:00 GMT</lastBuildDate>
 
     <!-- Satellite Today -->
     <item>
       <title>Satellite Today - Latest News</title>
       <link>https://www.satellitetoday.com/feed/</link>
       <description>Visit Satellite Today's RSS feed for up-to-date satellite communications news.</description>
-      <pubDate>Tue, 14 May 2025 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 14 May 2025 09:00:00 GMT</pubDate>
       <guid>https://www.satellitetoday.com/feed/</guid>
     </item>
 
@@ -21,7 +21,7 @@
       <title>SpaceNews - SATCOM Coverage</title>
       <link>https://spacenews.com/segment/satellite-communications/</link>
       <description>SpaceNews segment on SATCOM industry developments.</description>
-      <pubDate>Tue, 14 May 2025 08:30:00 GMT</pubDate>
+      <pubDate>Wed, 14 May 2025 08:30:00 GMT</pubDate>
       <guid>https://spacenews.com/segment/satellite-communications/</guid>
     </item>
 
@@ -30,17 +30,8 @@
       <title>Via Satellite - Headlines</title>
       <link>https://www.satellitetoday.com/via/feed/</link>
       <description>Via Satellite's RSS feed for satellite business and tech news.</description>
-      <pubDate>Tue, 14 May 2025 08:00:00 GMT</pubDate>
+      <pubDate>Wed, 14 May 2025 08:00:00 GMT</pubDate>
       <guid>https://www.satellitetoday.com/via/feed/</guid>
-    </item>
-
-    <!-- NASA News -->
-    <item>
-      <title>NASA News - Satellite & Communication Missions</title>
-      <link>https://www.nasa.gov/news-release/feed/</link>
-      <description>NASA's RSS feed with updates on satellite missions and communication projects.</description>
-      <pubDate>Tue, 14 May 2025 07:30:00 GMT</pubDate>
-      <guid>https://www.nasa.gov/news-release/feed/</guid>
     </item>
 
   </channel>
